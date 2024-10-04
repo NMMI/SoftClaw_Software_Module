@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<launch>
+
+	<arg name="yamlFile" default="$(find softclaw)/config/conf_softclaw.yaml"/>
+  	<rosparam command="load" file="$(arg yamlFile)"/>
+
+  	<group ns="SoftClaw">
+    	<node pkg="softclaw" name="softclaw_dev" type="softclaw" output="screen"/>
+  	</group>
+
+
+</launch>

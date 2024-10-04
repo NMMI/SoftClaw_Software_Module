@@ -1,0 +1,6 @@
+SoftClaw:
+  port: '/dev/ttyUSB0'        # communication port
+  ID: 1                       # ID of the SoftClaw
+  run_freq: 100               # Desired main rate in Hz
+  ref_claw_topic  : "ref"
+  meas_claw_topic : "meas"

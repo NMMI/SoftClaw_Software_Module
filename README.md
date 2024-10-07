@@ -1,5 +1,5 @@
 # SoftClaw node
-ROS node to communicate with SoftClaw Device
+ROS node to communicate with SoftClaw Device: https://www.naturalmachinemotioninitiative.com/softclaw-eurobin 
 
 ## Installation
 ### Requirements

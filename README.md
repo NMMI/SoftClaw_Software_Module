@@ -1,7 +1,10 @@
 # SoftClaw node
 ROS node to communicate with SoftClaw Device: https://www.naturalmachinemotioninitiative.com/softclaw-eurobin 
-If you are interested in integrating the hardware, please contact us at the following email:
-mattia.poggiani@iit.it
+
+If you are interested in integrating the hardware, please contact us at the following email: 
+
+mattia.poggiani@iit.it 
+
 eleonora.sguerri@iit.it
 
 ## Installation
